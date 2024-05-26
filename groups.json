@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "no": "1",
+      "name": "Andhika Danus Saputra",
+      "nim": "2110511101",
+      "email": "2110511101@mahasiswa.upnvj.ac.id",
+      "age": "21 Tahun",
+      "goals": "Machine Learning Engineer",
+      "profile": "https://media.licdn.com/dms/image/D5603AQEhzQbyqg6CUQ/profile-displayphoto-shrink_800_800/0/1714801419907?e=1722470400&v=beta&t=h_xxWWG3nNHO-JKwIDmmhjM_PgOsEplBrS0E7_SkPA8"
+    },
+    {
+      "no": "2",
+      "name": "Rifky Halsandrian",
+      "nim": "2110511094",
+      "email": "aldihalsandrian25@gmail.com",
+      "age": "20 Tahun",
+      "goals": "Cyber Security Analyst",
+      "profile": "https://media.licdn.com/dms/image/D5603AQE4IdVwojWr2w/profile-displayphoto-shrink_800_800/0/1708079105342?e=1722470400&v=beta&t=sJoQKIPx4eh0ePtrGrmCDnBGy6Klgw_7uuy1teUY_as"
+    },
+    {
+      "no": "3",
+      "name": "Muhamad Aziz Prasetyo",
+      "nim": "2110511095",
+      "email": "azizcogan59@gmail.com",
+      "age": "21 Tahun",
+      "goals": "Backend Web Developer",
+      "profile": "https://media.licdn.com/dms/image/C4E03AQHI9bqvL8Uoug/profile-displayphoto-shrink_800_800/0/1627569547417?e=1722470400&v=beta&t=BsBzT1C0If31Cxem9hwWQxylELER5xM82wEfXkj06eM"
+    },
+    {
+      "no": "4",
+      "name": "Rama Danudinata",
+      "nim": "2110511096",
+      "email": "2110511096@mahasiswa.upnvj.ac.id",
+      "age": "20 Tahun",
+      "goals": "Android Developer",
+      "profile": "https://media.licdn.com/dms/image/C5603AQHNBBkBa-AtcQ/profile-displayphoto-shrink_800_800/0/1648037970053?e=1722470400&v=beta&t=_QbolJ54t3tm774xZqPn3YT2MevDtIps8NJhqUvRoZQ"
+    },
+  ]
+}
